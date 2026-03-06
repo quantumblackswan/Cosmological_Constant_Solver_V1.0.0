@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it using the metadata below."
+
+title: "Cosmological Constant Solver V1.0.0 — Holographic Resolution of the Hubble Tension"
+type: software
+
+authors:
+  - family-names: Miller
+    given-names: Kevin Henry
+    orcid: "https://orcid.org/0009-0007-7286-3373"
+    affiliation: "Q-Bond Network DeSCI DAO, LLC"
+    email: Kevin@qbondnetwork.com
+    address: "965 Garnet Drive"
+    city: Acworth
+    region: Georgia
+    country: US
+    post-code: "30101"
+
+version: "1.0.0"
+date-released: "2026-03-06"
+repository-code: "https://github.com/KevinHenryMiller/Cosmological_Constant_Solver_V1.0.0"
+license: MIT
+
+doi: "10.5281/zenodo.18894022"
+url: "https://doi.org/10.5281/zenodo.18894022"
+
+abstract: >
+  A first-principles derivation of the cosmological constant Λ via the
+  Cohen–Kaplan–Nelson holographic UV–IR collapse bound, validated against
+  six independent cosmological datasets (3,851 data points) spanning galaxy
+  rotation curves to the CMB power spectrum. The joint MCMC analysis yields
+  H₀ = 68.09 ± 0.50 km/s/Mpc and χ²/dof = 0.9662, providing a theoretical
+  resolution to the Hubble tension from first principles. Submitted to
+  Nature Astronomy, March 2026.
+
+keywords:
+  - cosmological constant
+  - Hubble tension
+  - holographic principle
+  - CMB
+  - dark energy
+  - Riemann hypothesis
+  - MCMC
+  - quantum gravity
+  - DESI
+  - Pantheon+
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Miller
+      given-names: Kevin Henry
+      orcid: "https://orcid.org/0009-0007-7286-3373"
+  title: >
+    Holographic Resolution of the Hubble Tension: A Six-Dataset,
+    First-Principles Determination of the Cosmological Constant from
+    Galaxy Rotation Curves to the CMB Power Spectrum
+  journal: "Nature Astronomy (submitted)"
+  year: 2026
+  doi: "10.5281/zenodo.18894022"

@@ -1,0 +1,104 @@
+Kevin Henry Miller
+Q-Bond Network DeSCI DAO, LLC
+965 Garnet Drive
+Acworth, Georgia 30101, USA
+Kevin@qbondnetwork.com
+ORCID: 0009-0007-7286-3373
+
+March 3, 2026
+
+Editors, Nature Astronomy
+Springer Nature
+
+Dear Editors,
+
+I am delighted to submit the manuscript
+
+    "Holographic Resolution of the Hubble Tension: A Six-Dataset,
+     First-Principles Determination of the Cosmological Constant
+     from Galaxy Rotation Curves to the CMB Power Spectrum"
+
+for consideration as an Article in Nature Astronomy.
+
+THE PROBLEM AND WHAT WE OFFER
+
+The Hubble tension (4-6 sigma discrepancy between CMB-based H0 ~ 67
+km/s/Mpc and SH0ES H0 ~ 73 km/s/Mpc) is one of the most debated
+questions in modern cosmology. Proposed solutions range from early dark
+energy to modified gravity, but none has achieved consensus. Most
+analyses treat the cosmological constant Lambda as a free parameter;
+no prior work has derived Lambda from first principles and used that
+derivation as a theoretical prior.
+
+This paper makes three contributions:
+
+1. FIRST-PRINCIPLES DERIVATION. We derive Lambda from the Cohen-Kaplan-
+   Nelson (1999) UV-IR holographic collapse bound with zero free
+   parameters. The derivation is a theorem, not a fit: it follows from
+   the holographic principle and the Friedmann equation alone. The exact
+   identity rho_crit/rho_P = (3/8pi)(l_P/r_H)^2 explains the notorious
+   "10^122 cosmological constant problem" as a degree-of-freedom counting
+   error (volume vs. surface).
+
+2. SIX-DATASET VERIFICATION AT UNPRECEDENTED SCALE. We jointly fit six
+   independent cosmological datasets spanning six orders of magnitude in
+   physical scale:
+     - 1,701 Pantheon+SH0ES Type Ia supernovae (full covariance)
+     - 1,820 DES-SN5YR distance moduli (full covariance)
+     - 12 DESI DR2 BAO measurements
+     - 196 SPT-3G TT/TE/EE bandpowers (via candl)
+     - 122 ACT DR6 TT/TE/EE bandpowers (via candl)
+     - 175 SPARC galaxy rotation curves (per-galaxy M/L fits)
+   
+   The joint MLE gives chi^2/dof = 0.9662 across 3,851 data points ---
+   an extraordinary fit for a minimal-parameter model. The production
+   MCMC (64 walkers x 600 steps, 50.67 GPU-hours) gives:
+     Lambda = (1.117 +/- 0.022) x 10^-52 m^-2
+     H0 = 68.09 +/- 0.50 km/s/Mpc
+     Omm = 0.3101 +/- 0.0048
+
+3. THEORETICAL STAKE ON THE HUBBLE TENSION. Our holographic prior places
+   H0 = 68.09 +/- 0.50 km/s/Mpc, consistent with Planck at 0.7 sigma and
+   4.6 sigma below SH0ES. This provides independent theoretical motivation
+   for the growing body of evidence (JWST Cepheids, TRGB, JAGB methods)
+   suggesting the high-H0 SH0ES value requires calibration revision.
+   The alternative holographic dark energy model (Li 2004) is decisively
+   rejected by our data (DELTA_BIC = +57.9).
+
+SIGNIFICANCE FOR NATURE ASTRONOMY
+
+The cosmological constant problem (why is Lambda so small?) and the
+Hubble tension (why do early and late measurements disagree?) are two of
+the most prominent open problems in astronomy. This paper provides
+(a) a coherent theoretical framework that explains the magnitude of Lambda
+from first principles, and (b) a comprehensive multi-probe verification
+that yields H0 consistent with CMB-based values. The ten falsifiable
+predictions (DESI Year-5, Euclid, Simons Observatory, Einstein Telescope)
+make this work immediately testable.
+
+SUITABILITY AND ORIGINALITY
+
+This work has not been previously published and is not under consideration
+elsewhere. The theoretical derivation is original; the six-dataset joint
+analysis is, to our knowledge, the largest simultaneous multi-probe
+cosmological fit by a single open-source pipeline.
+
+SUGGESTED REVIEWERS
+
+We suggest:
+  - Prof. Licia Verde (University of Barcelona) — Hubble tension, CMB
+  - Prof. Stacy McGaugh (Case Western Reserve) — SPARC, RAR
+  - Dr. Nils Schoneberg (CMB, BBN, Hubble tension systematics)
+  - Prof. Wendy Freedman (University of Chicago) — distance ladder
+
+CONFLICTS
+
+I have no competing interests to declare.
+
+Thank you for considering this manuscript. I look forward to your response.
+
+Sincerely,
+
+Kevin Henry Miller
+Q-Bond Network DeSCI DAO, LLC
+March 3, 2026

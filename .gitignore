@@ -1,0 +1,64 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Data files too large for GitHub (upload to Zenodo)
+*.fits
+*.csv
+*.pkl
+*.h5
+*.hdf5
+mcmc_chains/
+chains/
+*.npy
+*.npz
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Compiled PDFs are tracked (needed for GitHub preview)
+# !main_manuscript.pdf
+# !supplementary_information.pdf
+# !figures/*.pdf
